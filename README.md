@@ -1,5 +1,6 @@
 # Drone-segmentation
 
+Model parameters to download: https://drive.google.com/file/d/10k3uLM5s5DSxORb9h8muxsNjTt3g7RFz/view?usp=sharing
 # 0.0 Introduction
 
 Drone Aerial Segmentation project
